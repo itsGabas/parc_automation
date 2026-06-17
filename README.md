@@ -163,5 +163,5 @@ A automação eliminou esse processo por completo. Hoje o sistema roda com um cl
 
 **Gabas** — Desenvolvedor em formação, com foco em automação, back-end Python e análise de dados.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/gabriel-bonamichi-aab43b2a8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gabriel-bonamichi-aab43b2a8)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/itsGabas)
