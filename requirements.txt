@@ -1,0 +1,11 @@
+pandas
+openpyxl
+selenium
+undetected-chromedriver
+selenium-stealth
+webdriver-manager
+2captcha-python
+python-dotenv
+holidays
+pyautogui
+pywinauto
